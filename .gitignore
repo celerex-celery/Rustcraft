@@ -1,0 +1,8 @@
+target/
+*.pdb
+*.dll
+*.exe
+*.natvis
+.vscode/
+.idea/
+*.rs.bak
