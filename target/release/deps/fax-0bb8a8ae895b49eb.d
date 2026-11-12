@@ -1,0 +1,12 @@
+C:\Users\Nicho\Downloads\Project\target\release\deps\fax-0bb8a8ae895b49eb.d: C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\lib.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\maps.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\decoder.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\encoder.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\tiff.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\bitmaps.rs
+
+C:\Users\Nicho\Downloads\Project\target\release\deps\libfax-0bb8a8ae895b49eb.rlib: C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\lib.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\maps.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\decoder.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\encoder.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\tiff.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\bitmaps.rs
+
+C:\Users\Nicho\Downloads\Project\target\release\deps\libfax-0bb8a8ae895b49eb.rmeta: C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\lib.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\maps.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\decoder.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\encoder.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\tiff.rs C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\bitmaps.rs
+
+C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\lib.rs:
+C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\maps.rs:
+C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\decoder.rs:
+C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\encoder.rs:
+C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\tiff.rs:
+C:\Users\Nicho\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\fax-0.2.7\src\bitmaps.rs:
